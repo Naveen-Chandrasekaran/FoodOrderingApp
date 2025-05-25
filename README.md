@@ -30,11 +30,8 @@ IDE: Android Studio
 To run this project locally:
 
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/Naveen-Chandrasekaran/FoodOrderingApp.git
+
 Open the project in Android Studio.
 
 Build and run the app on an emulator or physical Android device (API level 21 or above).
